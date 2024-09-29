@@ -1,0 +1,16 @@
+{
+    "name": "webflow-js-starter",
+    "version": "1.0.0",
+    "description": "A starter template for integrating Webflow with custom JavaScript using Vite.",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "serve": "vite preview"
+    },
+    "dependencies": {
+        "gsap": "^3.12.5"
+    },
+    "devDependencies": {
+        "vite": "^4.0.0"
+    }
+}
